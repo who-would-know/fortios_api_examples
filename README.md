@@ -1,4 +1,4 @@
-# FortiOS API get inline-casb application list
+# FortiOS API get sessions from fortios
 
 ## Requirements
 
